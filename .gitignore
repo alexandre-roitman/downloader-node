@@ -1,0 +1,4 @@
+server/serviceAccountCredentials.json
+downloadedFiles/
+.vscode/
+client/config.js
